@@ -1,1 +1,1 @@
-# Legged_Control_Detection
+# Legged_Contact_Detection
