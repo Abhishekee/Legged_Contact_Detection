@@ -9,11 +9,11 @@ The model was also tested on unseen datasets with a maximum AUC of 98.2%
 
 For training the model enter code given below:
 
-'''
+```
 
 python3  trainer.py
 
-'''
+```
 
 
 
